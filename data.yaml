@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/AI4SEE/data/train/images
+val: /content/drive/MyDrive/AI4SEE/data/val/images
+
+nc: 1
+names: ['person']
